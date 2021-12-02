@@ -10,7 +10,6 @@ This challenge requires you to use very basics of web scrapping. The password is
 
 
 ```
-Challenge description to go up on the website.
 
 The flag is hidden somewhere in this notebook but it is too difficult to make out can you search for it? Using inline elements might help.  -https://swati-verma671.github.io/Notebook/
 ```
