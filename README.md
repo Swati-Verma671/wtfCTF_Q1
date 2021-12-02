@@ -25,6 +25,6 @@ Now to get the flag, you will have to write a code to simply filter and extract 
 If you were able to do this, you will get the flag which is:
 
 <br />
-```
+\```
 wtfCTF{2_h4rd_2_s33}
-```
+\```
